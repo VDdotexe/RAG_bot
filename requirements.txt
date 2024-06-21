@@ -1,0 +1,10 @@
+langchain
+langchain-experimental
+langchain-community
+langchain-openai
+openai
+chromadb
+pypdf
+sentence_transformers
+gradio
+langchain-together

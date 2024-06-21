@@ -78,25 +78,3 @@ chain = RetrievalQA.from_chain_type(
 query = input()
 response = chain(query)
 response['result']
-
-query = input()
-response = chain(query)
-response['result']
-
-query = input()
-response = chain(query)
-response['result']
-
-
-query = input()
-response = chain(query)
-response['result']
-
-
-
-query = input()
-response = chain(query)
-response['result']
-
-
-
